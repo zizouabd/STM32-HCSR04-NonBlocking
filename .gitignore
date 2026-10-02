@@ -1,0 +1,14 @@
+# Fichiers de compilation STM32CubeIDE
+Debug/
+Release/
+build/
+
+# Fichiers objets et binaires
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Fichiers de configuration utilisateur locaux
+.launches/
